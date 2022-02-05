@@ -1,4 +1,4 @@
-# Mean, Varinace and Standard Desviation Calculator
+# Mean, Variance and Standard Desviation Calculator
 
 ## Abstract
 
